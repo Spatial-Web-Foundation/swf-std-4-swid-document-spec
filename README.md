@@ -2,12 +2,12 @@
 
 The spec repository for SWIDs and SWID Documents.
 
-Read the spec: [https://spatial-web-foundation.github.io/swid-document-spec/](https://spatial-web-foundation.github.io/swid-document-spec/)
+Read the spec: [https://spatial-web-foundation.github.io/swf-std-4-swid-document-spec/](https://spatial-web-foundation.github.io/swf-std-4-swid-document-spec/)
 
 ## Current Status of the Specification
 
 The current stable version of the specification can be found at
-[https://spatial-web-foundation.github.io/swid-document-spec/](https://spatial-web-foundation.github.io/swid-document-spec/).
+[https://spatial-web-foundation.github.io/swf-std-4-swid-document-spec/](https://spatial-web-foundation.github.io/swf-std-4-swid-document-spec/).
 See any guidance there about the status of the specification -- past versions,
 upcoming changes, etc.
 
